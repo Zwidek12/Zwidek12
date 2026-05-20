@@ -26,5 +26,5 @@ Building anti-bot systems, voice assistants, homelab infra, Discord bots.
 
 ---
 
-⚡ When I'm not configuring GPOs or testing vulnerabilities — optimizing global
+⚡ When I'm not configuring GPOs or testing vulnerabilities - optimizing global
 logistics in Factorio, plotting empire expansion in Civ VI, or Star Wars marathon.
