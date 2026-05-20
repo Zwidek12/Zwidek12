@@ -13,4 +13,4 @@
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,docker,python,bash,cloudflare,github,vscode&theme=dark)](https://skillicons.dev)
 
 ### 📊 GitHub Stats
-[![Maksymilian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zwidek12&show_icons=true&theme=tokyonight)](https://github.com/Zwidek12)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zwidek12&theme=tokyonight)](https://github.com/Zwidek12)
