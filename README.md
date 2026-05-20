@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Maksymilian!
 
-<!--
-**Zwidek12/Zwidek12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksymilian-frankowski-99b605286/)
+[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://www.zwidek.pl)
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+* 🎓 Advanced IT student at Uniwersytet WSB Merito in Gdańsk.
+* 🛡️ Focused on IT Infrastructure, Active Directory management, and Cybersecurity.
+* 🤖 Actively building AI-integrated tools and custom automations (vibe coding with Cursor & Claude).
+* ⚡ Fun fact: When I'm not configuring GPOs or analyzing networks, I'm probably optimizing logistics in Factorio, plotting my next empire expansion in Civilization VI, or doing a Star Wars marathon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,docker,python,bash,cloudflare,github,vscode&theme=dark)](https://skillicons.dev)
+
+### 📊 GitHub Stats
+[![Maksymilian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zwidek12&show_icons=true&theme=tokyonight)](https://github.com/Zwidek12)
