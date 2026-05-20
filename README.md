@@ -1,14 +1,30 @@
-# Hi 👋, I'm Maksymilian!
+## Maksymilian Frankowski
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksymilian-frankowski-99b605286/)
-[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://www.zwidek.pl)
+IT Infrastructure & Cybersecurity student · WSB Merito Gdańsk  
+Building anti-bot systems, voice assistants, homelab infra, Discord bots.
 
-### 👨‍💻 About Me
-* 🎓 Advanced IT student at Uniwersytet WSB Merito in Gdańsk.
-* 🛡️ Focused on IT Infrastructure, Active Directory management, and Cybersecurity.
-* 🤖 Actively building AI-integrated tools and custom automations (vibe coding with Cursor & Claude).
-* ⚡ Fun fact: When I'm not configuring GPOs or analyzing networks, I'm probably optimizing logistics in Factorio, plotting my next empire expansion in Civilization VI, or doing a Star Wars marathon.
+**[zwidek.pl](https://www.zwidek.pl) · [LinkedIn](https://www.linkedin.com/in/maksymilian-frankowski-99b605286/)**
+
+---
 
 ### 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,docker,python,bash,cloudflare,github,vscode&theme=dark)](https://skillicons.dev)
 
+**Infrastructure** — Windows Server · Linux (Ubuntu/Debian) · Active Directory · Docker · Hetzner Cloud  
+**Security & Net** — Cloudflare · Firewall config · Network protocols · Pen testing basics  
+**Automation** — Python · Bash · PowerShell · OpenAI API · Claude
+
+---
+
+### 📌 Projects worth looking at
+
+| Project | Description |
+|---------|-------------|
+| [Aegis](https://github.com/Zwidek12/Aegis) | Anti-bot: Rust/WASM fingerprinting + FastAPI risk scoring <5ms |
+| [Jarvis](https://github.com/Zwidek12/jarvis_ai) | Voice assistant: Whisper → GPT-4o-mini → ElevenLabs TTS |
+| [Discord Bot](https://github.com/Zwidek12/bot_discord_merito) | Student grade management + ticket system |
+| [Helpdesk Classifier](https://github.com/Zwidek12/helpdesk-classifier) | NLP L1 ticket triage · FastAPI · Docker |
+
+---
+
+⚡ When I'm not configuring GPOs or testing vulnerabilities — optimizing global
+logistics in Factorio, plotting empire expansion in Civ VI, or Star Wars marathon.
